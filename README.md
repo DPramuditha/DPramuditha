@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm dimuthu pramuditha</h1>
 <h3 align="center">A passionate frontend developer Mobile Application from Sri Lanaka</h3>
 
+<a href="https://github.com/DPramuditha/DPramuditha/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vleft=true&width=600&height=100&lines=Undergraduate+Software+Engineer👨‍💻;Always+learning+new+things"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpramuditha&label=Profile%20views&color=0e75b6&style=flat" alt="dpramuditha" /> </p>
 
 - 🌱 I’m currently learning **Undergraduate Software Engineering**
