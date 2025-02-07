@@ -1,3 +1,5 @@
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi 👋, I'm dimuthu pramuditha</h1>
 <h3 align="center">A passionate frontend developer Mobile Application from Sri Lanaka</h3>
 
