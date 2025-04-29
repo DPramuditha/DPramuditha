@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,java,figma,github,html,css,js,mysql,tailwind,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,java,figma,github,html,css,js,mysql,php,tailwind,&perline=14" />
   </a>
 </p>
 
