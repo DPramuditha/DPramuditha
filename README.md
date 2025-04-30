@@ -17,7 +17,10 @@
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,twitter&theme=light" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
