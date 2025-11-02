@@ -28,7 +28,7 @@
 </div>
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="40" height="40" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="40" height="40" /> About Me
 
 ```js
 const dimuthu = {
@@ -53,18 +53,18 @@ const dimuthu = {
 
 ``` 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="50" height="50" /> What I'm Up To
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="40" height="40" /> What I'm Up To
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="30" height="30" /> Learning **Pursuing Undergraduate Degree in Software Engineeringe**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> Learning **Pursuing Undergraduate Degree in Software Engineeringe**
 - 🔭 Working on **innovative mobile & web applications AI/ML Integration in Mobile Apps**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Flutter, Dart, Firebase, Mobile Dev**
 - 📧 Reach me at **[dimuthu.dev25@gmail.com]**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it!** 😄
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> GitHub Stats
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="50" height="50" /> TECH STACK
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40" /> TECH STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" alt="languages" style="max-width:100%;height:auto;display:block;" />
@@ -78,7 +78,7 @@ const dimuthu = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpramuditha&theme=jolly" alt="Profile Summary"/>
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="50" height="50" /> LET'S CONNECT
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="40" height="40" /> LET'S CONNECT
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,twitter&theme=dark" alt="social" style="max-width:100%;height:auto;" />
