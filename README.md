@@ -67,17 +67,10 @@ const dimuthu = {
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="50" height="50" /> TECH STACK
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" />
-  
-
-  <img src="https://skillicons.dev/icons?i=flutter,tailwind,react,vite,figma&theme=dark" />
-  
-
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,postman&theme=dark" />
-  
-
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,androidstudio,phpstorm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,dart,js,py,php,html,css&theme=dark" alt="languages" style="max-width:100%;height:auto;display:block;" />
+  <img src="https://skillicons.dev/icons?i=flutter,tailwind,react,vite,figma&theme=dark" alt="frontend" style="max-width:100%;height:auto;display:block;margin-top:8px;" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,postman&theme=dark" alt="backend" style="max-width:100%;height:auto;display:block;margin-top:8px;" />
+  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,androidstudio,phpstorm&theme=dark" alt="tools" style="max-width:100%;height:auto;display:block;margin-top:8px;" />
 </div>
 
 ---
@@ -88,7 +81,7 @@ const dimuthu = {
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="50" height="50" /> LET'S CONNECT
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,twitter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,twitter&theme=dark" alt="social" style="max-width:100%;height:auto;" />
 </div>
 
 ---
