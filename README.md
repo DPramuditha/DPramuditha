@@ -11,8 +11,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=800&color=B678F4&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Playground!;%F0%9F%9A%80+Turning+Ideas+into+Reality;%F0%9F%92%BB+Code+%7C+Create+%7C+Innovate;%E2%9C%A8+Building+Tomorrow's+Applications" alt="Typing SVG" />
 </p>
 
-<div class="emoji-swapper">
-<img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"  alt="Technologist" width="300" height="300"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" style="max-width:300px;width:40%;height:auto;display:block;margin:0 auto;" />
 </div>
 
 
