@@ -12,7 +12,7 @@
 </p>
 
 <div class="emoji-swapper">
-<img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"  alt="Technologist" width="400" height="400"  />
+<img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp"  alt="Technologist" width="300" height="300"  />
 </div>
 
 
