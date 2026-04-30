@@ -36,18 +36,18 @@ const dimuthu = {
     education: "Software Engineering Undergraduate",
     location: "Sri Lanka 🇱🇰",
     
-    currentlyLearning: ["Advanced Flutter", "Cloud Architecture", "AI/ML Integration in Mobile Apps"],
+    currentlyLearning: ["LangGraph & LangChain", "AI/ML Engineering", "Cloud Architecture (AWS)", "Data Science"],
     
     interests: [
+        "AI/ML Development 🤖",
+        "Web & Backend Development 🌐",
         "Mobile App Development 📱",
-        "AI/ML Integration Application",
-        "Web Development 🌐",
-        "UI/UX Design 🎨",
-        "Open Source Contribution 🚀"
+        "Open Source Contribution 🚀",
+        "UI/UX Design 🎨"
     ],
     
     dailyRoutine: function() {
-        return "Code → Coffee → Debug → Repeat ☕";
+        return "Research → Code → Coffee → Debug → Repeat ☕";
     }
 };
 
@@ -56,9 +56,11 @@ const dimuthu = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="40" height="40" /> What I'm Up To
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> Learning **Pursuing Undergraduate Degree in Software Engineeringe**
-- 🔭 Working on **innovative mobile & web applications AI/ML Integration in Mobile Apps**
+- 🔭 Working on **AI/ML integration in real-world software solutions**
+- 🤖 Building **AI/ML powered applications — computer vision, agentic AI workflows**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Flutter, Dart, Firebase, Mobile Dev**
+- 📜 Certified in **LangGraph (Python), AI/ML Engineering (SLIIT), AWS Cloud Practitioner**
+- 💬 Ask me about **Python, AI/ML, Java, Flutter, Dart, Firebase, Mobile Dev**
 - 📧 Reach me at **[dimuthu.dev25@gmail.com]**
 - ⚡ Fun fact: **I debug with print statements and I'm proud of it!** 😄
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> GitHub Stats
